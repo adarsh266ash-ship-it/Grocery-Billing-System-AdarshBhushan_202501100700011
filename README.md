@@ -1,6 +1,6 @@
 # Grocery-Billing-System-AdarshBhushan_202501100700011
 
-Problem Statement :
+#Problem Statement :
 A grocery store wants to calculate the total cost of items purchased by a customer.
 
 Calculate the total cost of 3 different items.
@@ -9,7 +9,7 @@ Add a 10% discount if the total exceeds 50$.
 
 Display the final payable amount.
 
-Approach:
+#Approach:
 1.We take the prices of three individual items as input from the user.
 
 2.We add these three prices together to get the Initial Total.
@@ -26,7 +26,7 @@ Approach:
 
 4.The script displays the final amount the customer needs to pay, formatted as currency.
 
-Sample Output:
+#Sample Output:
 Billing Details
 
 Total Cost: 60.00$
